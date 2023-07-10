@@ -1,5 +1,7 @@
 # Decision_Tree_malnutritional_status
 We have used a decision tree to predict malnutrition in children in rural populations.
+Here is the visual decision tree based on categorical data. You can read more about decision trees [(https://www.geeksforgeeks.org/decision-tree/)].
+
 # Features used
 The main algorithm which is used is ID3 with the following features:
 
