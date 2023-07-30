@@ -3,7 +3,7 @@ from p_decision_tree.DecisionTree import DecisionTree
 import pandas as pd
 
 #Reading CSV file as data set by Pandas
-data = pd.read_csv('playtennis.csv')
+data = pd.read_csv("malnutritional_status.csv")
 columns = data.columns
 
 #All columns except the last one are descriptive by default
